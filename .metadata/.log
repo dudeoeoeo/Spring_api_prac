@@ -1,0 +1,3677 @@
+!SESSION 2021-07-30 16:02:40.367 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-07-30 16:03:17.425
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:03:17.425
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:03:17.425
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:03:17.425
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:03:17.425
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:03:17.425
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:03:17.425
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.eclipse.ui 2 0 2021-07-30 16:03:17.872
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:03:17.872
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-07-30 16:03:18.375
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-07-30 16:03:18.398
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-30 16:03:24.988
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-07-30 16:03:26.659
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui 2 0 2021-07-30 16:06:33.058
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:06:33.058
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:06:33.058
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:06:33.058
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:06:33.058
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:06:33.058
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-30 16:06:33.058
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY Activator 1 0 2021-07-30 16:07:03.900
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:07:04.875
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:07:05.778
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:07:06.404
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:07:50.664
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:07:50.828
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-30 16:08:12.416
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-30 16:08:30.038
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:08:30.598
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:08:52.556
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:08:52.686
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:09:06.165
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:06.565
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:06.565
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@660fae93[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:06.571
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:06.605
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-07-30 16:09:06.799
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.775
+!MESSAGE Boot LS startup time from start to initialized: 2196ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.866
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eaYIjqvAisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.869
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.871
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.871
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.872
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.872
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eaYIjqvA => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.881
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.887
+!MESSAGE buffering callback sts4.classpath.eaYIjqvA book false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:08.887
+!MESSAGE executing callback sts4.classpath.eaYIjqvA 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 16:09:09.217
+!MESSAGE executing callback sts4.classpath.eaYIjqvA SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-30 16:10:26.574
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:10:27.182
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:12:22.947
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:12:23.557
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:13:02.339
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:13:03.161
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:14:50.278
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:14:50.416
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.eclipse.jface 2 0 2021-07-30 16:14:52.297
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-30 16:14:52.297
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@11607f4f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@476098b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:53.337
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.references.LSFindReferences.isEnabled(LSFindReferences.java:89)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.isEnabled(HandlerProxy.java:300)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.canExecute(E4HandlerProxy.java:78)
+	at jdk.internal.reflect.GeneratedMethodAccessor23.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.isEnabled(HandlerServiceHandler.java:62)
+	at org.eclipse.core.commands.Command.isEnabled(Command.java:832)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.canExecute(HandlerServiceImpl.java:180)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:220)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.showMenu(MenuManagerShowProcessor.java:256)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.menuAboutToHide(MenuManagerShowProcessor.java:114)
+	at org.eclipse.jface.internal.MenuManagerEventHelper.showEventPostHelper(MenuManagerEventHelper.java:95)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:469)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:463)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:495)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1048)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5157)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4789)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1480)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2263)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:237)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4067)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3620)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:57.399
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:348)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-30 16:14:57.426
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:57.790
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$InternalListener.verifyKey(ContentAssistant.java:806)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:57.842
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:348)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-30 16:14:57.847
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:58.182
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$InternalListener.verifyKey(ContentAssistant.java:806)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:58.234
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:348)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-30 16:14:58.240
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:58.295
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$InternalListener.verifyKey(ContentAssistant.java:806)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:58.347
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:348)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-30 16:14:58.353
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:58.463
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$InternalListener.verifyKey(ContentAssistant.java:806)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:58.515
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:348)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-30 16:14:58.519
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:58.590
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$InternalListener.verifyKey(ContentAssistant.java:806)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 16:14:58.641
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:273)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1205)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:319)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:348)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:481)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:70)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6101)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-30 16:14:58.646
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-30 16:14:59.090
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "String.length()" because "typeSignature" is null
+	at org.eclipse.jdt.internal.compiler.parser.TypeConverter.createTypeReference(TypeConverter.java:145)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.createTypeReference(BinaryTypeConverter.java:366)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.convert(BinaryTypeConverter.java:214)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.convert(BinaryTypeConverter.java:330)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.buildTypeDeclaration(BinaryTypeConverter.java:111)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.selectType(SelectionEngine.java:1612)
+	at org.eclipse.jdt.internal.core.NamedMember.resolveType(NamedMember.java:328)
+	at org.eclipse.jdt.internal.core.NamedMember.resolveType(NamedMember.java:270)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.resolveFQName(JavaData.java:520)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.fillTypeDescriptorData(JavaData.java:294)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.fillTypeData(JavaData.java:302)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.createTypeData(JavaData.java:276)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:69)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:477)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-30 16:14:59.091
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "String.length()" because "typeSignature" is null
+	at org.eclipse.jdt.internal.compiler.parser.TypeConverter.createTypeReference(TypeConverter.java:145)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.createTypeReference(BinaryTypeConverter.java:366)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.convert(BinaryTypeConverter.java:214)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.convert(BinaryTypeConverter.java:330)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.buildTypeDeclaration(BinaryTypeConverter.java:111)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.selectType(SelectionEngine.java:1612)
+	at org.eclipse.jdt.internal.core.NamedMember.resolveType(NamedMember.java:328)
+	at org.eclipse.jdt.internal.core.NamedMember.resolveType(NamedMember.java:270)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.resolveFQName(JavaData.java:520)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.fillTypeDescriptorData(JavaData.java:294)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.fillTypeData(JavaData.java:302)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.createTypeData(JavaData.java:276)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:69)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:477)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-30 16:15:00.951
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "String.length()" because "typeSignature" is null
+	at org.eclipse.jdt.internal.compiler.parser.TypeConverter.createTypeReference(TypeConverter.java:145)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.createTypeReference(BinaryTypeConverter.java:366)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.convert(BinaryTypeConverter.java:214)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.convert(BinaryTypeConverter.java:330)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.buildTypeDeclaration(BinaryTypeConverter.java:111)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.selectType(SelectionEngine.java:1612)
+	at org.eclipse.jdt.internal.core.NamedMember.resolveType(NamedMember.java:328)
+	at org.eclipse.jdt.internal.core.NamedMember.resolveType(NamedMember.java:270)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.resolveFQName(JavaData.java:520)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.fillTypeDescriptorData(JavaData.java:294)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.fillTypeData(JavaData.java:302)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.createTypeData(JavaData.java:276)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:69)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:477)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY Activator 1 0 2021-07-30 16:15:01.607
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:01.716
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:01.961
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:02.139
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:02.352
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:02.744
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:03.150
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:03.350
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:03.823
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:04.368
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:04.510
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:04.655
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:06.758
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:07.935
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:08.223
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:08.760
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:09.072
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:09.583
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:10.071
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:10.286
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:10.759
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:11.103
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:11.257
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:11.359
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:12.216
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:13.415
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:13.631
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:13.812
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:13.947
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:14.239
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:14.463
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:15.484
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:16.176
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:23.313
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:23.712
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:23.985
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:24.197
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:26.223
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:26.437
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:28.624
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:28.841
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:29.630
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:29.833
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:32.343
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:42.093
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:42.301
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:42.397
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:42.613
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:43.138
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:43.355
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:44.845
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:15:45.068
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:03.389
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:03.526
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:03.621
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:03.843
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:05.029
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:05.257
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:05.828
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:06.041
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:07.622
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:07.747
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:07.885
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:08.061
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:08.272
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:08.760
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:08.970
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:12.781
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:16:13.045
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:17:46.996
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:17:47.209
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:17:47.431
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:17:47.646
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:17:48.166
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:17:48.375
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:17:53.606
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:17:53.967
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:09.269
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:09.483
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:11.678
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:11.766
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:11.983
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:12.366
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:12.571
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:24.841
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:25.052
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:25.962
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:37.753
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:38.127
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:48.043
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:48.156
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:48.366
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:48.524
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:48.745
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:51.235
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:51.456
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:51.503
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:51.589
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:51.805
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:55.719
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:18:55.925
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:21.092
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:21.291
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:29.120
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:29.324
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:32.755
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:32.966
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:33.012
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:33.220
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:33.739
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:33.957
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:57.442
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:19:57.658
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:08.092
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:08.305
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:08.348
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:08.546
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:11.770
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:12.000
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:23.290
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:23.489
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:32.844
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:32.996
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:33.196
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:33.243
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:33.612
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:33.780
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:33.877
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:34.094
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:34.476
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:34.684
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:34.740
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:34.884
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:35.070
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:35.282
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:35.652
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:35.868
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:42.710
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:42.919
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:42.962
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:43.152
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:47.981
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:48.204
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:56.556
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:56.758
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:56.814
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:56.981
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:57.024
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:57.233
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:57.920
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:58.130
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:58.934
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:59.270
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:59.428
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:20:59.805
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:21:00.939
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:21:01.455
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:21:55.735
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:21:55.869
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:22:01.770
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:22:02.372
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:23:02.220
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:23:02.822
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:23:19.393
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:23:19.992
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:23:57.905
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:23:58.519
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:25:22.128
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:25:22.968
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:25:33.638
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:25:34.197
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:26:17.177
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:26:17.781
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:26:22.171
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:26:22.724
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:26:42.119
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:26:42.723
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:34:28.436
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:34:28.603
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:34:32.977
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:34:33.583
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:34:38.641
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:34:39.243
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:34:58.558
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:34:59.112
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:35:03.144
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:35:03.751
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:35:16.840
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:35:17.445
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:35:30.281
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:35:30.885
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:36:17.015
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:36:17.634
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:56:43.204
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:56:46.903
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:56:46.948
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:56:55.444
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:56:56.050
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:02.458
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:03.071
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:11.852
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:12.463
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:17.988
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:18.589
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:47.621
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:47.664
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:48.347
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 16:57:48.775
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:02:15.897
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:02:16.464
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:02:19.688
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:02:20.287
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:11:54.112
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:11:55.101
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:12:37.631
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:12:38.230
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:14:00.932
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:14:02.319
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 17:14:02.320
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 17:14:02.328
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 17:14:02.336
+!MESSAGE buffering callback sts4.classpath.eaYIjqvA book false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 17:14:02.336
+!MESSAGE executing callback sts4.classpath.eaYIjqvA 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 17:14:02.368
+!MESSAGE executing callback sts4.classpath.eaYIjqvA SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-30 17:14:02.589
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:14:03.680
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:17:11.498
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:17:12.097
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:18:09.158
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:18:09.755
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:18:11.880
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:18:12.547
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:18:19.221
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:18:19.818
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:04.935
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:05.146
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:16.221
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:16.425
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:17.687
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:17.891
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:18.560
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:18.765
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:19.488
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:19.701
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:25.671
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:21:25.875
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:22:56.469
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:22:56.518
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:22:56.998
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:22:57.628
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:33:48.867
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:33:50.431
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:33:52.428
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:33:53.765
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:34:29.811
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:34:30.384
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:06.942
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:07.153
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:07.276
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:07.486
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:07.677
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:07.809
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:08.026
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:08.078
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:08.129
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:08.342
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:08.907
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:09.109
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:12.435
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:12.637
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:19.277
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:19.484
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:19.542
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:19.756
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:19.976
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:20.192
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:24.522
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:24.567
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:24.727
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:26.922
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:27.093
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:27.306
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:27.356
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:27.533
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:27.750
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:30.179
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:30.622
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:31.015
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:31.315
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:34.156
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:34.367
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:34.428
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:34.637
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:34.679
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:34.879
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:34.957
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:35.167
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:35.492
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:35.710
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:35.750
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:35.953
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:35.996
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:36.178
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:37.055
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:37.269
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:38.284
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:38.496
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:38.973
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:39.177
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:39.684
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:39.905
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:40.320
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:40.522
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:40.932
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:41.146
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:41.540
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:41.752
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:42.181
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:42.395
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:44.924
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:45.134
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:45.919
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:46.433
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:46.978
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:47.295
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:47.823
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:48.065
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:49.242
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:49.771
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:51.731
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:55.609
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:55.817
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:56.172
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:56.389
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:56.973
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:36:57.186
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:02.133
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:02.341
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:02.468
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:02.686
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:02.749
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:02.925
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:03.139
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:12.639
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:12.845
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:13.355
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:13.569
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:14.100
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:14.308
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:15.028
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:15.246
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:21.993
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:22.199
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:22.637
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:22.847
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:23.333
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:23.542
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:25.760
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:25.967
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:30.525
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:30.738
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:33.160
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:33.373
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:39.403
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:39.593
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:59.335
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:37:59.550
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:01.674
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:01.877
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:07.440
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:08.061
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:35.178
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:36.431
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:36.695
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:37.412
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:37.629
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:37.868
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:38.079
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:38.753
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:38.967
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:39.179
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:39.387
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:39.976
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:40.186
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:44.804
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:45.018
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:45.068
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:45.273
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:45.317
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:45.475
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:45.679
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:45.728
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:45.889
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:45.932
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:46.123
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:46.331
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:46.375
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:46.539
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:46.584
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:49.852
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:50.056
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:50.259
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:50.444
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:50.716
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:50.927
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:54.500
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:38:54.707
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:05.531
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:05.739
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:06.335
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:06.551
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:06.812
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:07.018
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:08.151
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:08.353
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:12.201
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:12.346
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:12.552
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:13.132
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:13.337
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:13.587
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:13.802
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:14.432
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:14.646
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:16.248
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:16.382
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:16.506
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:16.720
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:17.135
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:17.350
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:22.199
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:23.582
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:39:24.387
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:40:47.927
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:40:48.503
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:42:31.965
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:42:32.304
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:38.226
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:38.442
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:39.427
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:39.637
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:39.947
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:40.163
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:40.527
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:40.736
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:41.729
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:41.931
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:44.160
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:44.368
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:44.515
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:44.739
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:45.251
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:45.468
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:46.667
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:46.874
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:47.162
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:47.368
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:47.676
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:47.881
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:48.052
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:48.256
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:48.459
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:48.676
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:50.415
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:50.602
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:50.800
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:50.995
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:51.203
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:51.254
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:51.428
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:51.477
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:51.675
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:51.717
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:51.883
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:51.927
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:52.103
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:52.389
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:52.431
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:52.471
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:52.532
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:43:52.977
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:01.935
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:02.140
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:03.796
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:04.005
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:06.155
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:06.368
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:06.860
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:07.075
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:10.214
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:10.427
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:11.046
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:11.734
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:11.981
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:12.403
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:15.166
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:44:15.546
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:00.725
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:00.935
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:01.288
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:01.493
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:01.899
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:02.110
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:02.947
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:03.151
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:03.475
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:03.691
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:04.051
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:04.264
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:04.930
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:05.139
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:05.183
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:05.379
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:05.423
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:05.523
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:05.756
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:06.078
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:06.282
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:08.474
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:08.677
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:08.730
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:08.948
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:09.787
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:09.955
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:10.171
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:10.954
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:11.172
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:11.214
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:11.387
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:11.531
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:11.746
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:12.054
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:12.598
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:13.807
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:45:14.122
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:46:40.189
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:46:41.132
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:46:42.404
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:16.281
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:16.971
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:17.391
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:17.603
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:17.667
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:17.873
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:20.248
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:20.460
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:21.547
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:21.959
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:22.398
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:30.596
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:47:31.020
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:52:52.274
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:52:52.857
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:52:55.991
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:52:56.553
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:53:00.302
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:53:00.857
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:53:24.166
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:53:24.771
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:53:30.643
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:53:31.258
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:56:46.801
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:56:47.358
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY Activator 1 0 2021-07-30 17:59:56.265
+!MESSAGE Has main method computation for project 'book'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 17:59:56.472
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eaYIjqvA
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 17:59:56.473
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.eaYIjqvA
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 17:59:56.473
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 17:59:56.474
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eaYIjqvA => OK
+!SESSION 2021-08-02 13:15:04.066 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-02 13:15:12.919
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-02 13:15:12.919
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-02 13:15:12.919
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-02 13:15:12.919
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-02 13:15:12.919
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-02 13:15:12.919
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-02 13:15:12.919
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:21.455
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:21.456
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7aa1ad44[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:21.459
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:21.515
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-02 13:15:23.949
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-02 13:15:24.015
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.382
+!MESSAGE Boot LS startup time from start to initialized: 2905ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.827
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NhnBYPwAisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.832
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.835
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.837
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.837
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.838
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NhnBYPwA => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.863
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.876
+!MESSAGE buffering callback sts4.classpath.NhnBYPwA book false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:24.877
+!MESSAGE executing callback sts4.classpath.NhnBYPwA 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 13:15:25.920
+!MESSAGE executing callback sts4.classpath.NhnBYPwA SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-08-02 13:15:39.321
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 13:44:50.484
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 18:11:10.364
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NhnBYPwA
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 18:11:10.365
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.NhnBYPwA
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 18:11:10.366
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 18:11:10.366
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NhnBYPwA => OK
+!SESSION 2021-08-03 09:15:15.831 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-03 09:15:25.172
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 09:15:25.172
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 09:15:25.172
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 09:15:25.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 09:15:25.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 09:15:25.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 09:15:25.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:34.145
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:34.145
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6f0492a6[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:34.148
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:34.212
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-03 09:15:36.472
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-03 09:15:36.529
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.167
+!MESSAGE Boot LS startup time from start to initialized: 3004ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.566
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vscguZxtisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.571
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.574
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.578
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.579
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.580
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vscguZxt => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.595
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.604
+!MESSAGE buffering callback sts4.classpath.vscguZxt book false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:37.605
+!MESSAGE executing callback sts4.classpath.vscguZxt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:15:38.046
+!MESSAGE executing callback sts4.classpath.vscguZxt SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-08-03 10:38:26.576
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.jface 2 0 2021-08-03 11:15:07.240
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-03 11:15:07.240
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@50036708,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@575b45c0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 11:41:24.187
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vscguZxt
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 11:41:24.188
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.vscguZxt
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 11:41:24.189
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 11:41:24.190
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vscguZxt => OK
+!SESSION 2021-08-03 14:25:33.976 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-03 14:25:43.860
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 14:25:43.860
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 14:25:43.860
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 14:25:43.860
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 14:25:43.860
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 14:25:43.860
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-03 14:25:43.860
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:50.857
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:50.857
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3990c36c[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:50.861
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:50.963
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.jface 2 0 2021-08-03 14:25:51.874
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-03 14:25:51.874
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@689ef61d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f410749,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-03 14:25:52.363
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-03 14:25:52.395
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:53.443
+!MESSAGE Boot LS startup time from start to initialized: 2552ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:53.737
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lFGKwyfVisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:53.741
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:53.744
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:53.745
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:53.745
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:53.745
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lFGKwyfV => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:54.654
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:54.661
+!MESSAGE buffering callback sts4.classpath.lFGKwyfV book false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:54.662
+!MESSAGE executing callback sts4.classpath.lFGKwyfV 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:25:56.650
+!MESSAGE executing callback sts4.classpath.lFGKwyfV SUCCESS [done]
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:05:35.357
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:05:44.452
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:05:55.061
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:06:11.652
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-03 15:14:05.279
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:35:41.531
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:35:51.205
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:36:00.525
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:37:06.658
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:38:29.572
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.eclipse.jdt.junit 4 0 2021-08-03 15:40:52.380
+!MESSAGE No tests found with test runner 'JUnit 5'.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 18:04:43.285
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lFGKwyfV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 18:04:43.286
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.lFGKwyfV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 18:04:43.287
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 18:04:43.287
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lFGKwyfV => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-08-03 18:04:43.603
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-08-05 11:06:17.595 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-05 11:06:25.258
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 11:06:25.259
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 11:06:25.259
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 11:06:25.259
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 11:06:25.259
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 11:06:25.259
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 11:06:25.259
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:33.041
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:33.041
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6de605fc[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:33.045
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:33.115
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:35.402
+!MESSAGE Boot LS startup time from start to initialized: 2321ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:35.681
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GxnnVbHKisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:35.684
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:35.688
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:35.689
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:35.689
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GxnnVbHK => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:36.225
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-05 11:06:36.226
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:36.252
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:36.260
+!MESSAGE buffering callback sts4.classpath.GxnnVbHK book false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:36.261
+!MESSAGE executing callback sts4.classpath.GxnnVbHK 1 batched events
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-05 11:06:36.298
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:06:37.550
+!MESSAGE executing callback sts4.classpath.GxnnVbHK SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-08-05 11:06:49.864
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.jdt.core 4 2 2021-08-05 13:07:51.398
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IResourceDelta.getKind()" because "resourceDelta" is null
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:773)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:758)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:815)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:758)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:139)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1755)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1743)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1576)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1552)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyAndFire(DeltaProcessor.java:2273)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2163)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:478)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:381)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1503)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2327)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:76)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:66)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.executeOperation(TextFileDocumentProvider.java:461)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.saveDocument(TextFileDocumentProvider.java:764)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.performSave(AbstractTextEditor.java:5007)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.performSave(CompilationUnitEditor.java:1262)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSave(CompilationUnitEditor.java:1316)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextEditorSavable.doSave(AbstractTextEditor.java:7151)
+	at org.eclipse.ui.Saveable.doSave(Saveable.java:213)
+	at org.eclipse.ui.internal.SaveableHelper.doSaveModel(SaveableHelper.java:333)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$1(SaveableHelper.java:196)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$3(SaveableHelper.java:271)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2345)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2343)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:278)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:260)
+	at org.eclipse.ui.internal.SaveableHelper.saveModels(SaveableHelper.java:207)
+	at org.eclipse.ui.internal.SaveableHelper.savePart(SaveableHelper.java:150)
+	at org.eclipse.ui.internal.WorkbenchPage.saveSaveable(WorkbenchPage.java:3820)
+	at org.eclipse.ui.internal.WorkbenchPage.saveEditor(WorkbenchPage.java:3833)
+	at org.eclipse.ui.internal.handlers.SaveHandler.execute(SaveHandler.java:82)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at jdk.internal.reflect.GeneratedMethodAccessor83.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:584)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:653)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:443)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1270)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1042)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-08-05 13:07:51.400
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IResourceDelta.getKind()" because "resourceDelta" is null
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:773)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:758)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:815)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:758)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:139)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1755)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1743)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1576)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1552)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyAndFire(DeltaProcessor.java:2273)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2163)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:478)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:381)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1503)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2327)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:76)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:66)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.executeOperation(TextFileDocumentProvider.java:461)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.saveDocument(TextFileDocumentProvider.java:764)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.performSave(AbstractTextEditor.java:5007)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.performSave(CompilationUnitEditor.java:1262)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSave(CompilationUnitEditor.java:1316)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextEditorSavable.doSave(AbstractTextEditor.java:7151)
+	at org.eclipse.ui.Saveable.doSave(Saveable.java:213)
+	at org.eclipse.ui.internal.SaveableHelper.doSaveModel(SaveableHelper.java:333)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$1(SaveableHelper.java:196)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$3(SaveableHelper.java:271)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2345)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2343)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:278)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:260)
+	at org.eclipse.ui.internal.SaveableHelper.saveModels(SaveableHelper.java:207)
+	at org.eclipse.ui.internal.SaveableHelper.savePart(SaveableHelper.java:150)
+	at org.eclipse.ui.internal.WorkbenchPage.saveSaveable(WorkbenchPage.java:3820)
+	at org.eclipse.ui.internal.WorkbenchPage.saveEditor(WorkbenchPage.java:3833)
+	at org.eclipse.ui.internal.handlers.SaveHandler.execute(SaveHandler.java:82)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at jdk.internal.reflect.GeneratedMethodAccessor83.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:584)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:653)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:443)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1270)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1042)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-05 14:21:33.505
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-05 14:43:50.563
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:40:34.090
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GxnnVbHK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:40:34.091
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.GxnnVbHK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:40:34.092
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:40:34.092
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GxnnVbHK => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:00.917
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:00.917
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6de605fc[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:00.918
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.650
+!MESSAGE Boot LS startup time from start to initialized: 1730ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.723
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XbnhDFGgisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.723
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.724
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.724
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.725
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.725
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XbnhDFGg => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.731
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.737
+!MESSAGE buffering callback sts4.classpath.XbnhDFGg book false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:02.737
+!MESSAGE executing callback sts4.classpath.XbnhDFGg 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 15:41:03.013
+!MESSAGE executing callback sts4.classpath.XbnhDFGg SUCCESS [done]
+
+!ENTRY org.eclipse.jface 2 0 2021-08-05 16:01:44.210
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-05 16:01:44.210
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@20bb927d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16cb6db8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:03:57.753
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:03:57.754
+!MESSAGE buffering callback sts4.classpath.XbnhDFGg book true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:03:57.755
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:03:57.756
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:03:57.757
+!MESSAGE buffering callback sts4.classpath.XbnhDFGg book-backend false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:03:57.758
+!MESSAGE executing callback sts4.classpath.XbnhDFGg 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:03:57.767
+!MESSAGE executing callback sts4.classpath.XbnhDFGg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:04:02.334
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:04:02.343
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:04:02.348
+!MESSAGE buffering callback sts4.classpath.XbnhDFGg book-backend false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:04:02.349
+!MESSAGE executing callback sts4.classpath.XbnhDFGg 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:04:02.374
+!MESSAGE executing callback sts4.classpath.XbnhDFGg SUCCESS [done]
+!SESSION 2021-08-06 12:59:24.557 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-06 12:59:36.684
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 12:59:36.684
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 12:59:36.684
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 12:59:36.685
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 12:59:36.685
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 12:59:36.685
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 12:59:36.685
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:45.367
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:45.368
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e63c837[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:45.372
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:45.421
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-06 12:59:47.057
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-06 12:59:47.116
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.048
+!MESSAGE Boot LS startup time from start to initialized: 2661ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.344
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OanNHekSisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.349
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.352
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.353
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.354
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.354
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OanNHekS => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.371
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.379
+!MESSAGE buffering callback sts4.classpath.OanNHekS book-backend false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.380
+!MESSAGE executing callback sts4.classpath.OanNHekS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 12:59:48.798
+!MESSAGE executing callback sts4.classpath.OanNHekS SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-06 14:43:06.888
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.ui 2 2 2021-08-06 16:58:10.453
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.jface 2 0 2021-08-06 16:58:43.444
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-06 16:58:43.444
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@14c32696,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7e1ae50,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-08-06 17:07:59.751
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:94)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:04.487
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:04.494
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:04.501
+!MESSAGE buffering callback sts4.classpath.OanNHekS book-backend false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:04.502
+!MESSAGE executing callback sts4.classpath.OanNHekS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:04.530
+!MESSAGE executing callback sts4.classpath.OanNHekS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:07.191
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:07.198
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:07.203
+!MESSAGE buffering callback sts4.classpath.OanNHekS book-backend false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:07.204
+!MESSAGE executing callback sts4.classpath.OanNHekS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:08:07.227
+!MESSAGE executing callback sts4.classpath.OanNHekS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:27:46.724
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.OanNHekS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:27:46.725
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.OanNHekS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:27:46.726
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:27:46.726
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.OanNHekS => OK

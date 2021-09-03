@@ -1,0 +1,29 @@
+server:
+  servlet:
+    encoding:
+      charset: utf-8
+      enabled: true
+
+#spring:
+#  datasource:
+#    url: jdbc:h2:mem:testdb
+#    driver-class-name: org.h2.Driver
+#    username: sa
+#    password:     
+
+h2:
+  console:
+    enabled: true
+    path: /h2_db
+datasource:
+  url: jdbc:h2:file:~/tistoryDb/testdb;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE
+  driver-class-name: org.h2.Driver
+  username: kim
+  password: 1234
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl

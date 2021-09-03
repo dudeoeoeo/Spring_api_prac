@@ -1,0 +1,11 @@
+1627628910052	Rename package 'com.example.demo'
+1627629290279	Rename resource 'application.properties'
+1627629977178	Delete element
+1627630472977	Rename package 'com.example.book.web'
+1627630478641	Rename package 'com.example.book.domain'
+1627630498558	Copy package
+1627630503144	Delete element
+1627631815444	Rename package 'com.example.book'
+1627631822458	Rename package 'domain'
+1627631831852	Rename package 'service'
+1627631837989	Rename package 'web'

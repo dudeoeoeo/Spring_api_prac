@@ -1,0 +1,7 @@
+package com.example.demo.service;
+
+// 단위 테스트 ( Service와 관련된 애들만 IoC에 올리면 됨 )
+
+public class BookServiceUnitTest {
+
+}

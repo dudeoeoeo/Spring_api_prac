@@ -1,0 +1,10 @@
+package com.example.demo.web;
+
+import org.springframework.boot.test.context.SpringBootTest;
+
+// 통합 테스트 (모든 Bean들을 똑같이 IoC 올리고 테스트 하는 것)
+
+@SpringBootTest // 모든 Bean을 등록
+public class BookControllerIntegreTest {
+
+}
